@@ -1,2 +1,2 @@
 # Chess-AI
-Play chess against computer
+Play chess against computer.
